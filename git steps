@@ -1,0 +1,19 @@
+Upload Code to GitHub
+In GitHub:
+Create a New Repository(button) in GitHub.com
+♣	Name repository
+♣	Set to “Public”
+♣	Check “Initialize with readme”
+♣	Copy new repository link from GitHub
+In terminal:
+Navigate to folder for download of new code 
+Type following commands:
+git clone (paste link to GitHub repository)  (downloads file to local directory)
+- confirm repository and README file have been downloaded 
+- move or copy HTML file into local repository folder.
+git add –A    (notifies git of additional html file)
+git commit –m “comments” (commits file to GitHub with comments ) 
+git push (completes transaction GitHub login may be prompted) 
+In GitHub:
+Confirm HTML file has been added to GitHub repository
+
